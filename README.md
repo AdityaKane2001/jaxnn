@@ -1,4 +1,4 @@
 # JAXNN: 
-### My own neural network written in pure JAX
+### My collection of JAX/Flax models
 
-Status: Git repo created :)
+This repo houses all my model implementations in JAX. 
